@@ -16,6 +16,10 @@ SoftRes Loot System replaces spreadsheets and manual Discord tracking with a cen
 - Loot priority sheets per raid tier with class-aware suggestions
 - Public-facing player profiles, soft reserve tables, and loot priority pages
 
+  
+
+
+
 ---
 
 ## Tech Stack
